@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniofabioqueiroz
 - 👀 I’m interested in learning and build projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning O.O, and back end technologies.
 - 💞️ I’m looking to collaborate on any project to improve my skills in React and React Native
 - 📫 How to reach me antoniofabioqueiroz@gmail.com
 <!---
